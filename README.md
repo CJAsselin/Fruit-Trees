@@ -1,1 +1,1 @@
-# Fruit-Trees
+This was a quick and easy program to figure out what action to take depending on the temperature of the orchards. If the orchards were too hot, the output was to turn on the sprinklers, and if the orchards were too cold, it was to activate the heating system.
