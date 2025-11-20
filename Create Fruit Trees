@@ -1,0 +1,13 @@
+#getting input from user
+temperature = float(input('Enter the current temperature:'))
+
+#processing/output
+if temperature < 59:
+    print("Activate the heating system,")
+    print("Check the temperature in 5 minutes.")
+if temperature > 77:
+    print("Turn on the water sprinklers,")
+    print("Check the temperature in 5 minutes.")
+else:
+    print("No action is needed,")
+    print("Check the temperature in 15 minutes.")
